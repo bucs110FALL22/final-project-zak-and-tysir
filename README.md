@@ -1,22 +1,22 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 # CS110 Project Proposal
-# << Project Title >>
+# Chad's Trek
 ## CS 110 Final Project
-### << Semester, Year >>
+###  Fall, 2022
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit?usp=sharing)
 
-<< [repl](#) >>
+https://replit.com/@tjurado1/final-project#main.py
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: Zak/ty
+#### Zak and Tysir 
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+Chad's fighting different animals and choices along the way affect the storyline. 
 
 ***    
 
