@@ -77,7 +77,7 @@ The Project is broken down into the following file structure:
 
 ## Testing
 
-* What we did to efficiently complete this final project is we wrote down a check list with all the objectives we had to complete in order to complete this project. Next, we split up into to do different sections of the project. Along the way, we kept running the code to see what was wrong and debuggeed it so our project runs smoothly. 
+* What we did to efficiently complete this final project is we wrote down a check list with all the objectives we had to complete in order to complete this project. Next, we split up into to do different sections of the project. Along the way, we kept running the code to see what was wrong and debuggeed it so our project runs smoothly. We also used print statements to see where exactly our code was running and where it wasn't. 
 
 ## ATP
 
