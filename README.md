@@ -7,7 +7,7 @@
 
 https://replit.com/@tjurado1/final-project#main.py
 
-<< [link to demo presentation slides](#) >>
+https://docs.google.com/presentation/d/1vz1Iq3r-JDAenUsZlBamlFAxwXUEj23lM8MKhQElzqI/edit#slide=id.g1a509a0785c_0_30
 
 ### Team: Zak/ty
 #### Zak and Tysir 
@@ -16,7 +16,7 @@ https://replit.com/@tjurado1/final-project#main.py
 
 ## Project Description
 
-This program gives us 7 buttons to press and those buttons would give us different pop ups with information with the certain button that you pressed. These 7 buttons are weather, stocks, news, fun fact, Today in History, quote of the day, and sports. 
+This program gives us 4 buttons to press and those buttons would give us different information with the certain button that you pressed. These 4 buttons are weather, news, quote of the day, and joke. When you press on any button on the screen, it will provide you a information that was randomly found from the source API's we used. 
 
 ***    
 
@@ -73,7 +73,7 @@ The Project is broken down into the following file structure:
 
    Ty: worked on buttons, the source files, putting the buttons in the correct location. 
    Zak: worked on making the images for the buttons, making the buttons clickable. 
-   Both: worked on making the text move across the screen wehen a button was clicked. 
+   Both: worked on making the text move across the screen when a button was clicked. 
 
 ## Testing
 
