@@ -60,11 +60,9 @@ The Project is broken down into the following file structure:
     * brief.py
 * assets
     * image.py
-    * facts_button.png
     * joke.png
     * news2.png
     * quote_image.png
-    * stocks2.png
     * weather.png
 * etc
     * test.py
