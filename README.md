@@ -72,7 +72,7 @@ The Project is broken down into the following file structure:
 ## Tasks and Responsibilities 
 
    Ty: worked on buttons, the source files, putting the buttons in the correct location. 
-   Zak: worked on making the images for the buttons, making the buttons clickable. 
+   Zak: worked on making the images for the buttons, making the buttons clickable, worked on classes that draw the info from the api links.  
    Both: worked on making the text move across the screen when a button was clicked. 
 
 ## Testing
