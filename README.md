@@ -43,7 +43,6 @@ This program gives us 7 buttons to press and those buttons would give us differe
         * ![class diagram](assets/class_diagram.jpg) 
 * Classes
     *  Jokes: This class allows us to get a random joke from the url posted in the file so we can display that joke onto the screen. 
-    *  Stocks: 
     *  Quotes: This class allows us to get a random quote from the url posted in the file so we can display the quote onto the screen. 
     *  Weather: This class allows us to get weather updates from the url posted in the file so we can display the news about the weather onto the screen. 
     *  Fact: This class allows us to get a random fact from the url posted in the file so we can display the fact onto the screen. 
@@ -58,7 +57,7 @@ The Project is broken down into the following file structure:
     * jokes.py
     * fact.py
     * quotes.py
-    * stocks.py
+    * brief.py
 * assets
     * image.py
     * facts_button.png
@@ -68,7 +67,7 @@ The Project is broken down into the following file structure:
     * stocks2.png
     * weather.png
 * etc
-    * << This is a catch all folder for things that are not part of your project, but you want to keep with your project >>
+    * test.py
 
 ***
 
@@ -80,7 +79,7 @@ The Project is broken down into the following file structure:
 
 ## Testing
 
-* What we did to efficiently complete this final project is we wrote down a check list with all the objectives we had to complete in order to complete this project. Next, we split up into to do different sections of the project. Along the way, we kept running the code to see what was wrong and debuggeed it so ur project runs smoothly. 
+* What we did to efficiently complete this final project is we wrote down a check list with all the objectives we had to complete in order to complete this project. Next, we split up into to do different sections of the project. Along the way, we kept running the code to see what was wrong and debuggeed it so our project runs smoothly. 
 
 ## ATP
 
